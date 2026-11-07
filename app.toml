@@ -2,6 +2,8 @@
 # Edit this file, app.py, and requirements.txt to build the whole project
 # Nothing else needs to be updated when you reuse this template.
 # =======================================================================
+name = "RPAProject"
+display_name = "RPA Project"
 
 [app]
 # Name of the built executable. No spaces, slashes, or colons --
